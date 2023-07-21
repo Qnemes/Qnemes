@@ -1,6 +1,6 @@
 <h1 align="left">:computer: Greetings! My name is Vladyslav Semeniuk</h1>
 
-Frontend Developer from Opole, PL :house:
+Frontend Developer from Opole, :poland: :house:
 
 <h2 align="left" id="qnemes-stack">🔥 Tech stack</h2>
 
