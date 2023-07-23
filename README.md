@@ -149,10 +149,6 @@ I`m Frontend Developer from Opole, :poland: :house:
       </a>
       <br>Redux
     </td>
-
-    
-  </tr> 
-    <tr>
     <td align="center" width="110" height="90"> 
       <a href="https://webpack.js.org/" >
         <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="36" height="36" alt="Webpack" />
@@ -171,6 +167,7 @@ I`m Frontend Developer from Opole, :poland: :house:
       </a>
       <br>Sass
     </td>
+    
   </tr> 
 </table>
 
