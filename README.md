@@ -190,7 +190,7 @@ I`m Frontend Developer from Opole, :poland: :house:
   </tr> 
 </table>
 
-## ☄️ Contact
+## :envelope_with_arrow: Contact
 
 - :briefcase: &nbsp;**[LinkedIn](https://www.linkedin.com/in/vladyslav-semeniuk/)**
 - :octocat: &nbsp;**[Github](https://github.com/Qnemes)**
