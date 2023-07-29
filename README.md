@@ -1,4 +1,4 @@
- <img width="100%" src="banner.svg" alt="qnemes"/>
+ <img align="left" width="100%" src="banner.svg" alt="qnemes"/>
 
 I`m Frontend Developer from Opole, :poland: :house:
 
