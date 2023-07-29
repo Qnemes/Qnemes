@@ -1,11 +1,8 @@
-<a href="https://github.com/qnemes">
-  <img src="banner.svg" alt="
-      qnemes" align="center"/>
-</a>
+ <img width="100%" src="banner.svg" alt="qnemes"/>
 
 I`m Frontend Developer from Opole, :poland: :house:
 
-<h2 align="left" id="qnemes-stack">🔥 Tech stack</h2>
+## 🔥 Technologies
 
 > General
 
