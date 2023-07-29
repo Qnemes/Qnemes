@@ -1,4 +1,7 @@
-<h1 align="left">:computer: Greetings! My name is Vladyslav Semeniuk</h1>
+<a href="https://github.com/qnemes">
+  <img src="banner.svg" alt="
+      qnemes" align="center"/>
+</a>
 
 I`m Frontend Developer from Opole, :poland: :house:
 
