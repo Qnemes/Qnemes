@@ -93,12 +93,6 @@ I`m Frontend Developer from Opole, :poland: :house:
       </a>
       <br>Puppeteer
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="https://www.checklyhq.com/">
-      <img align="right" width="100%" src="checkly_logo.svg" alt="qnemes"/>
-      </a>
-      <br>Checkly
-    </td>
   </tr> 
 </table>
 
