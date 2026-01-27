@@ -50,12 +50,6 @@ I`m Frontend Developer from Opole, :poland: :house:
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="https://github.com/" >
-        <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>Github
-    </td>
   </tr> 
 </table>
 
@@ -149,19 +143,12 @@ I`m Frontend Developer from Opole, :poland: :house:
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="https://vitejs.dev/" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="110" height="90">
       <a href="https://sass-lang.com/">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
-    
   </tr> 
 </table>
 
