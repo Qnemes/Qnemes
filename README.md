@@ -82,10 +82,16 @@ I`m Frontend Developer from Opole, :poland: :house:
       <br>Redux
     </td>
    <td align="center" width="110" height="90">
-      <a href="https://redux.js.org/" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      <a href="https://mobx.js.org/README.html" >
+        <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="36" height="36" alt="MobX" />
       </a>
       <br>MobX
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="https://vite.dev/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://webpack.js.org/" >
@@ -120,7 +126,7 @@ I`m Frontend Developer from Opole, :poland: :house:
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://www.cypress.io/">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAiZAAZAA0" width="36" height="36" alt="cypress" />
       </a>
       <br>Cypress
     </td>
@@ -167,6 +173,12 @@ I`m Frontend Developer from Opole, :poland: :house:
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="https://supabase.com/" >
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase" />
+      </a>
+      <br>Supabase
     </td>
       <td align="center" width="110" height="90"> 
       <a href="https://www.prisma.io/" >
