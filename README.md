@@ -10,37 +10,37 @@ I`m Frontend Developer from Opole, :poland: :house:
   <tr>
     <td align="center" width="110" height="90">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" />
       </a>
       <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="36" height="36" alt="html5" />
+        <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="36" height="36" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
          <td align="center" width="110" height="90"> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
-        <img src="https://www.svgrepo.com/show/373535/css.svg" width="36" height="36" alt="css3" />
+        <img src="https://www.svgrepo.com/show/373535/css.svg" width="36" height="36" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
       <a href="https://www.figma.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="110" height="90">
       <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       </a>
       <br>git
     </td>
@@ -49,6 +49,12 @@ I`m Frontend Developer from Opole, :poland: :house:
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="https://pnpm.io/">
+        <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" width="36" height="36" alt="pnpm" />
+      </a>
+      <br>pnpm
     </td>
   </tr> 
 </table>
@@ -65,7 +71,7 @@ I`m Frontend Developer from Opole, :poland: :house:
     </td>
      <td align="center" width="110" height="90">
       <a href="https://nextjs.org/" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next.js" />
       </a>
       <br>Next JS
       <td align="center" width="110" height="90">
@@ -114,31 +120,31 @@ I`m Frontend Developer from Opole, :poland: :house:
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="https://jestjs.io/" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="jest" />
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://testing-library.com/">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="React testing library" />
       </a>
       <br>RT Library
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://www.cypress.io/">
-        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAiZAAZAA0" width="36" height="36" alt="cypress" />
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAiZAAZAA0" width="36" height="36" alt="Cypress" />
       </a>
       <br>Cypress
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://playwright.dev/">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
       </a>
       <br>Playwright
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://pptr.dev/">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
+        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="Puppeteer" />
       </a>
       <br>Puppeteer
     </td>
@@ -151,13 +157,13 @@ I`m Frontend Developer from Opole, :poland: :house:
   <tr>
      <td align="center" width="110" height="90">
       <a href="https://eslint.org/">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="Eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="https://prettier.io/">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>prettier
     </td>
