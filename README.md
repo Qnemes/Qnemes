@@ -53,6 +53,55 @@ I`m Frontend Developer from Opole, :poland: :house:
   </tr> 
 </table>
 
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="https://react.dev/">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="https://nextjs.org/" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+      <td align="center" width="110" height="90">
+      <a href="https://tailwindcss.com/">
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://redux.js.org/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="https://redux.js.org/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>MobX
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="https://webpack.js.org/" >
+        <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://sass-lang.com/">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr> 
+</table>
+
 > Testing
 
 <table width='100%'>
@@ -105,49 +154,6 @@ I`m Frontend Developer from Opole, :poland: :house:
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
-    </td>
-  </tr> 
-</table>
-
-> Frontend
-
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="https://react.dev/">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="https://nextjs.org/" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-      <td align="center" width="110" height="90">
-      <a href="https://tailwindcss.com/">
-        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://redux.js.org/" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="https://webpack.js.org/" >
-        <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://sass-lang.com/">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr> 
 </table>
