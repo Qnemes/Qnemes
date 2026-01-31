@@ -1,7 +1,5 @@
  <img align="right" width="100%" src="banner.svg" alt="qnemes"/>
 
-I`m Frontend Developer from Opole, :poland: :house:
-
 ## 🔥 Technologies
 
 > General
