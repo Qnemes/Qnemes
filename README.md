@@ -1,6 +1,6 @@
- <img align="right" width="100%" src="banner.svg" alt="qnemes"/>
+<img width="100%" src="banner.svg" alt="qnemes"/>
 
-## 🔥 Technologies
+<h2>🔥 Technologies</h2> 
 
 > General
 
@@ -193,7 +193,7 @@
   </tr> 
 </table>
 
-## :envelope_with_arrow: Contact
+<h2>:envelope_with_arrow: Contact</h2> 
 
 - :briefcase: &nbsp;**[LinkedIn](https://www.linkedin.com/in/vladyslav-semeniuk/)**
 
