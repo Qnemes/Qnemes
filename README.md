@@ -118,7 +118,7 @@
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="https://jestjs.io/" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
@@ -155,13 +155,13 @@
   <tr>
      <td align="center" width="110" height="90">
       <a href="https://eslint.org/">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="Eslint" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="36" height="36" alt="Eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="https://prettier.io/">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://prettier.io/icon.png" width="36" height="36" alt="Prettier" />
       </a>
       <br>prettier
     </td>
