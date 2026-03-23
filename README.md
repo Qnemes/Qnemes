@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="https://www.npmjs.com/">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="https://sass-lang.com/">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+        <img src="https://sass-lang.com/assets/img/logos/logo.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
