@@ -103,12 +103,6 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90">
-      <a href="https://sass-lang.com/">
-        <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
   </tr> 
 </table>
 
